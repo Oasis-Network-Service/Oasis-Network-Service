@@ -1,4 +1,4 @@
-# 🌴 Oasis World — The Ultimate Minecraft Experience
+# 🌴 Oasis World Network
 
 <p align="center">
   <img src="https://img.shields.io/badge/Server%20IP-play.oasisworld.net-success?style=for-the-badge&logo=minecraft" alt="Server IP">
