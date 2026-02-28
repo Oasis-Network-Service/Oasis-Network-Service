@@ -31,7 +31,7 @@ We pride ourselves on supporting a wide range of Minecraft versions.
 | **Legacy** | `1.8.9`, `1.12.2` |
 | **Modern** | `1.14.4`, `1.16.4`, `1.17.1`, `1.18.2` |
 | **Latest** | `1.20.4`, `1.20.6`, `1.21.x` |
-| **Future** | `26.1` (Support coming upon release!) |
+| **Future** | `1.26.1` (Support coming upon release!) |
 
 > [!NOTE]
 > Support for **1.19.x** is currently available but subject to change as we optimize for 1.19.4 performance.
