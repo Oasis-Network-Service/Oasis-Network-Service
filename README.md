@@ -8,46 +8,40 @@
 
 ---
 
-### 👋 Welcome to the Oasis!
-Oasis World is a community-driven Minecraft network dedicated to providing high-quality MiniGames and immersive Survival gameplay. Whether you are a legacy player or on the latest update, we’ve built a home for you.
+### Welcome to the Oasis!
+Oasis World is a community-driven Minecraft network built around a great Survival experience and a lobby packed with fun mini-games. Jump in, meet the community, and make yourself at home.
 
 ---
 
-## 🎮 Game Modes
-* **🌍 Survival:** Our flagship experience with custom features.
-* **🏰 Custom Hubs:** Explore our unique, self-made hubs designed for the community.
-* **⚔️ Coming Soon (MiniGames):**
-    * Bedwars & Skywars
-    * Competitive PVP
-    * **Custom Self-Invented MiniGames** (Exclusive to Oasis World!)
+## Game Modes
+* **Survival:** Our main experience with many cool features and a whole world to explore.
+* **Lobby:** Our self-made hub, home to quick mini-games like Tic-Tac-Toe and more to play with friends between sessions. Just sneak and rightclick on anyone in the lobby to invite them to play!
 
 ---
 
-## 🛰️ Version Compatibility
-We pride ourselves on supporting a wide range of Minecraft versions. 
+## Version Compatibility
+The server runs on **Minecraft 26.2**, and players can join with any client from **1.7** up to **26.3**.
 
-| Category | Supported Versions |
+| | Version |
 | :--- | :--- |
-| **Legacy** | `1.8.9`, `1.12.2` |
-| **Modern** | `1.14.4`, `1.16.4`, `1.17.1`, `1.18.2` |
-| **Latest** | `1.20.4`, `1.20.6`, `1.21.x` |
-| **Future** | `1.26.1` (Support coming upon release!) |
+| **Server** | `26.2` |
+| **Supported clients** | `1.7` to `26.3` |
 
-> [!NOTE]
-> Support for **1.19.x** is currently available but subject to change as we optimize for 1.19.4 performance.
+> [!TIP]
+> For the best experience, we recommend joining with version **26.2**.
 
 ---
 
-## 🔗 Quick Links
+## Quick Links
 | Resource | URL |
 | :--- | :--- |
-| **🛒 Store** | [store.oasisworld.net](https://store.oasisworld.net) |
-| **⚖️ Forum** | [forum.oasisworld.net](https://forum.oasisworld.net) |
-| **🌐 Website** | [oasisworld.net](https://oasisworld.net) |
+| **Store** | [store.oasisworld.net](https://store.oasisworld.net) |
+| **Forum** | [forum.oasisworld.net](https://forum.oasisworld.net) |
+| **Website** | [oasisworld.net](https://oasisworld.net) |
 
 ---
 
-## 📱 Follow Our Journey
+## Follow Our Journey
 Stay updated with sneak peeks and community highlights!
 
 <p align="left">
